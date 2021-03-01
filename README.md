@@ -4,6 +4,10 @@ Es un proyecto que recopila fuentes secundaria para sus proyectos de investigaci
 
 La base de datos se organiza en :
 
+* Organización y registro de la empresa.
+* Información financiera.
+
 # Autores
+
 
 C. Robot visita mi página web en http://www.diariotec.com/
