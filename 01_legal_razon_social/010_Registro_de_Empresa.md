@@ -20,8 +20,8 @@ Con el formato de presentación que obtendrás tras realizar la reserva online, 
 
 ## Tasas
 
-5 soles : Búsqueda en Agencias MAC
-20 soles : Reserva de nombre
+* 5 soles : Búsqueda en Agencias MAC
+* 20 soles : Reserva de nombre
 
 Fuentes
 https://www.gob.pe/269-registro-o-constitucion-de-empresa
