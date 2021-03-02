@@ -56,4 +56,4 @@ Una vez que la solicitud sea recibida y procesada por el notario, se enviará el
 
 Fuentes
 [Registro Empresa](https://www.gob.pe/269-registro-o-constitucion-de-empresa)
-[Sid Sunarp)(https://www.gob.pe/10580-constituir-tu-empresa-a-traves-de-la-plataforma-sistema-de-intermediacion-digital-sid-sunarp)
+[Sid Sunarp](https://www.gob.pe/10580-constituir-tu-empresa-a-traves-de-la-plataforma-sistema-de-intermediacion-digital-sid-sunarp)
