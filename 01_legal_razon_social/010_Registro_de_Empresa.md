@@ -40,5 +40,20 @@ El acto constitutivo es un documento en el cual los miembros de una sociedad man
 * Centro de Desarrollo Empresarial (CDE): Lleva los requisitos a un CDE y solicita el servicio de Elaboración de Acta Constitutiva. El tiempo aproximado es de 2 días hábiles. http://www.produce.gob.pe/index.php/mype-industria/orientacion-y-constitucion-de-empresas
 * Centro de Mejor Atención al Ciudadano (MAC)
 
+### ¿Necesita asistencia para el registro de la empresa y creación de RUC?
+
+Si deseas constituir una empresa como Sociedad Anónima (SA), Sociedad Comercial de Responsabilidad Limitada (SRL), Sociedad Anónima Cerrada (SAC) o Empresa Individual de Responsabilidad Limitada (EIRL), puedes hacerlo a través de esta página.
+
+La Plataforma Sistema de Intermediación Digital (SID - SUNARP) te permite obtener los formatos de estatuto de constitución de empresa y enviarlos de manera electrónica al notario de tu elección, para luego continuar con el trámite de firma de escritura pública y registro.
+
+Podrás obtener el estatus del trabajo notarial y registral de manera inmediata en tu correo electrónico.
+
+El plazo de inscripción es de 24 horas.
+
+Tendrás que ingresar los datos de la empresa (domicilio, objeto social, capital, participantes o socios), para que el sistema te asigne un número que deberás de imprimir y llevar a la notaría que seleccionaste previamente, para culminar el trámite.
+
+Una vez que la solicitud sea recibida y procesada por el notario, se enviará el parte notarial con la firma digital de manera electrónica a la Sunarp, quien te comunicará la inscripción con el número de RUC de la empresa constituida. Deberás activar el número de RUC que te asignen, a través de la Clave SOL que tramite el representante legal ante la Sunat. 
+
 Fuentes
-https://www.gob.pe/269-registro-o-constitucion-de-empresa
+[Registro Empresa](https://www.gob.pe/269-registro-o-constitucion-de-empresa)
+[Sid Sunarp)(https://www.gob.pe/10580-constituir-tu-empresa-a-traves-de-la-plataforma-sistema-de-intermediacion-digital-sid-sunarp)
