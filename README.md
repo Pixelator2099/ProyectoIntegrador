@@ -4,7 +4,8 @@ Es un proyecto que recopila fuentes secundaria para sus proyectos de investigaci
 
 La base de datos se organiza en :
 
-* Organización y registro de la empresa.
+* 01 Organización y registro de la empresa.
+* 02 Régimen Laboral y tributario
 * Información financiera.
 
 # Autores
