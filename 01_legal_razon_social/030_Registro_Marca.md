@@ -25,7 +25,9 @@ Puedes registrar los siguientes tipos de marca:
 
 Existen varias clases o categorías en las que puedes registrar tu producto y/o servicio. Si registras tu marca en alguna de ellas, solo estará protegida de otros productos de esa misma clase. Las clases son estándares a nivel internacional, y hay 34 clases de productos y 11 clases de servicios. Consulta a qué clase pertenece tu producto o servicio si no estás seguro.
 
-[Títulos_Clasificación_Niza_2017.pdf]
+[Títulos_Clasificación_Niza_2017.pdf](Títulos_Clasificación_Niza_2017.pdf)
 
-Fuente
-https://www.gob.pe/332-registrar-una-marca
+
+### Fuente
+
+[Registro de Marca](https://www.gob.pe/332-registrar-una-marca)
