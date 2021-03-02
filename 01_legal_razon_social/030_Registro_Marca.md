@@ -1,3 +1,5 @@
+# Registro de Marca
+
 Cuando registras tu marca, te conviertes en el dueño y en el único autorizado para usarla en el Perú. Registrar tu marca no es obligatorio ni tampoco es un requisito para iniciar actividades comerciales, pero es la manera más efectiva de evitar que otras personas te copien o imiten, y tomen ventaja de tu prestigio.
 
 El registro de marca dura 10 años y solo es válido en Perú. Si quieres registrarla de forma internacional, deberás hacerlo en cada uno de los países donde desees estar protegido.
@@ -19,6 +21,11 @@ Puedes registrar los siguientes tipos de marca:
 * Marca colectiva
 * Marca de certificación
 
+## Categorías
+
+Existen varias clases o categorías en las que puedes registrar tu producto y/o servicio. Si registras tu marca en alguna de ellas, solo estará protegida de otros productos de esa misma clase. Las clases son estándares a nivel internacional, y hay 34 clases de productos y 11 clases de servicios. Consulta a qué clase pertenece tu producto o servicio si no estás seguro.
+
+[Títulos_Clasificación_Niza_2017.pdf]
 
 Fuente
 https://www.gob.pe/332-registrar-una-marca
