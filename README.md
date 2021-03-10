@@ -12,5 +12,5 @@ La base de datos se organiza en :
 # Autores
 
 
-C. Robot visita mi página web en http://www.diariotec.com/
-J. Robot visita mi página web en https://www.facebook.com/jiocaexp
+* C. Robot visita mi página web en http://www.diariotec.com/
+* J. Robot visita mi página web en https://www.facebook.com/jiocaexp
