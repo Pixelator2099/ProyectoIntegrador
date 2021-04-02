@@ -11,3 +11,7 @@ Otros datos se pueden encontrar en la categoría de Población y Vivienda [Acces
 * Estadísticas Vitales
 * Migración Interna
 * Vivienda 
+
+# PLan de Negocio
+
+Modelo Canvas [video](https://www.youtube.com/watch?v=i1Le5GYkBT8)
