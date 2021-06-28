@@ -107,11 +107,19 @@ enterprise_value
 sales_growth
 total_return
 
+# Get Parámetros comunes
+
+FA_PERIOD_TYPE= tipo de listado de datos por ejemplo diario, mensual, anual, etc.
+
+FA_ACT_EST_DATA = muestra datos actuales o estimados o ambos.
+
+FA_PERIOD_REFERENCE=RANGE(2018,2025) rango de fechas de la consulta de datos.
+
 # Técnicas de Análisis
 Método William %R
 0 Mercado sobrecomprado
 -100 Mercado Sobrevendido
->-80 vender <-20
+> mayor -80 vender menos a <-20 comprar
 
 W_%R = ( PX_Max(YEAR) - PX_LAST ) / PX_Max(YEAR) - PX_Min(Year) 
 
@@ -120,6 +128,11 @@ W_%R = ( PX_Max(YEAR) - PX_LAST ) / PX_Max(YEAR) - PX_Min(Year)
 [Análisis entre ESG / tamaño empresa y factores de rendimiento](https://gupea.ub.gu.se/bitstream/2077/65529/1/gupea_2077_65529_1.pdf)
 
 [A study inthe effectiveness of predicting default using the Merton model during financial distress](https://gupea.ub.gu.se/bitstream/2077/35973/1/gupea_2077_35973_1.pdf)
+
+Es posible que si llegaste hasta aqupi estes buscando modelos para crear Factor Model o factores de predicción para la valoracíón. La teoría básica es crear modelos de regresíon linear, exponencial o factorial que permitan acercarse a predecir un momento de tiempo. Uno de los postulados es el modelo propuesto por el Nobel Robert Merton llamdo ICAPM en 1973 como una extensión del modelo de valoración de activos - capital asset pricing model (CAPM). 
+En los siguientes enlace incluyo foros que se encuentren vigentes sobre el tema. 
+
+[How to build a factor model?](https://quant.stackexchange.com/questions/17125/how-to-build-a-factor-model)
 
 ## Links
 
