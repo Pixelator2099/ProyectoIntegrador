@@ -11,25 +11,77 @@ Una de sus características es que permite separar el código en pequeño bloque
 ## Librerias recomendadas
 
 Acceso a la base de datos 
+
 import bql
 
 Creación de objetos persistentes como label, listas, input, etc.
+
 import ipywidgets as widgets
 
 Manejador de datos y manipulación en memoria con objetos Data FRAME
+
 import pandas as pd
 
 Libreria de enfoque científico para la manipulación de arreglos
+
 import numpy as np
 
 Manejador de gráficos estadísticos
+
 from matplotlib import pyplot as plt
 
 Libreria para copiar objetos y romper la referencia
+
 from copy import copy
 
 Funciones estadísticas
+
 import statistics
+
+1. algopy	algopy	0.5.7	Algorithmic differentiation and Taylor polynomial approximations
+2. bqfunc	bqfunc	0.6.0	Bloomberg library for financial closed-form expressions
+1. mpmath	mpmath	1.1.0	Library for arbitrary-precision floating-point arithmetic
+1. networkx	networkx	2.3	Creation, manipulation and study of the structure, dynamics and functions of complex networks
+1. nltk	nltk	3.4.4	Natural Language Toolkit
+1. numdifftools	numdifftools	0.9.39	Solves automatic numerical differentiation problems2. 
+1. numexpr	numexpr	2.6.9	Fast numerical expression evaluator for NumPy
+1. numpy	numpy	1.16.4	Array processing for numbers, strings, records and objects
+1. openpyxl	openpyxl	2.6.2	Read/write Excel 2010 xlsx/xlsm files
+1. pandas	pandas	0.25.0	Data structures and data analysis
+1. patsy	patsy	0.5.1	Describe statistical models and for building design matrices
+1. pytables	tables	3.5.2	Manage hierarchical datasets
+1. scikit-image	skimage	0.15.0	Image processing routines for SciPy
+1. scikit-learn	sklearn	0.21.2	Machine learning library
+1. scipy	scipy	1.3.0	Scientific library
+1. sqlalchemy	sqlalchemy	1.3.6	Python SQL toolkit and object relational mapper
+1. statsmodels	statsmodels	0.10.1	Statistical modeling and econometrics
+1. sympy	sympy	1.4	Library for symbolic mathematics
+1. xlrd	xlrd	1.2.0	Extract data from Microsoft Excel spreadsheet files
+1. xlwt	xlwt	1.3.0	Create spreadsheet files compatible with MS Excel 97/2000/XP/2003 XLS files
+
+Visualización
+
+1. bokeh	bokeh	1.3.2	Interactive visualization library for web browsers
+1. bqplot	bqplot	0.12.25	Bloomberg library for plotting in the Jupyter notebook
+1. bqviz	bqviz	2.2.0	Bloomberg visualization wrapper for bqplot
+1. bqwidgets	bqwidgets	2.0.0	Bloomberg library for interactive HTML widgets in the Jupyter notebook
+1. cycler	cycler	0.10.0	Cycles for Matplotlib
+1. ipyleaflet	ipyleaflet	0.13.6	Jupyter / Leaflet bridge enabling interactive maps in the notebook
+1. ipywidgets	ipywidgets	7.6.3	Interactive HTML widgets for Jupyter Notebook
+1. matplotlib	matplotlib	3.1.1	2D plotting library
+1. pillow	pillow	6.1.0	Imaging library
+1. plotly	plotly	4.14.1	2D/3D interactive plotting library
+1. seaborn	seaborn	0.9.0	High-level interface for drawing statistical graphics. Based on matplotlib.
+
+Bloomberg
+
+1. PyBQL	bql	0.106.0	Python API to access the Bloomberg Query Language
+1. h5py	h5py	2.9.0	Interface to HDF5 library
+1. hdf5	hdf5	1.10.4	Data model, library and file format to store and manage data
+1. python	python	3.7.1	Python programming language
+1. requests	requests	2.22.0	HTTP library for Python
+
+
 
 ## Fundamentos BQL
 
