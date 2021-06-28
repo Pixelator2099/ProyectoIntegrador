@@ -40,6 +40,34 @@ FOR ()
 
 En donde LET es un área para definir variables con el  formato #Var = CampoBQL
 En donde GET es un área para indicar los campos a recuperar, por ejemplo bs_mkt_sec_other_st_invest() es un indicador que muestra los valores líquidos y otras inversiones a corto plazo.
+En donde FOR es un área para indicar el universo a consultar. Pueder ser un índice, una empresa o un bono. Se deben consultar por el nombre del ticket, por ejemplo la empresa Tesla tiene el código "TSLA US Equity".
+
+# Get - Campos comunes
+
+'PX_LAST' 
+'PX_OPEN' 
+'PX_HIGH'
+'PX_LOW'
+
+TOT_RETURN_INDEX_NET_DVDS  en lugar de PX_LAST, indica el índice de retorno total entre dos días.
+
+enterprise_value
+sales_growth
+total_return
+
+# Técnicas de Análisis
+Método William %R
+0 Mercado sobrecomprado
+-100 Mercado Sobrevendido
+>-80 vender <-20
+
+W_%R = ( PX_Max(YEAR) - PX_LAST ) / PX_Max(YEAR) - PX_Min(Year) 
+
+### Investigaciones
+
+[Análisis entre ESG / tamaño empresa y factores de rendimiento](https://gupea.ub.gu.se/bitstream/2077/65529/1/gupea_2077_65529_1.pdf)
+
+[A study inthe effectiveness of predicting default using the Merton model during financial distress](https://gupea.ub.gu.se/bitstream/2077/35973/1/gupea_2077_35973_1.pdf)
 
 ## Links
 
@@ -50,3 +78,4 @@ https://jupyter.org/try
 Ejecuta código desde GITHUB y compartelo
 
 https://mybinder.org/
+
