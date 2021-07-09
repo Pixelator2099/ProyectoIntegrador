@@ -123,6 +123,16 @@ Método William %R
 
 W_%R = ( PX_Max(YEAR) - PX_LAST ) / PX_Max(YEAR) - PX_Min(Year) 
 
+# Otraas técnicas
+
+[Entropic value at risk](https://en.wikipedia.org/wiki/Entropic_value_at_risk)
+
+Maximización de r2 (Para el riesgo)
+
+Heterocedasticidad condicional autorregresiva (ARCH)
+
+[Regímenes de riesgo en el mercado de acciones colombiano](http://www.scielo.org.co/pdf/soec/n30/n30a14.pdf)
+
 ### Investigaciones
 
 [Análisis entre ESG / tamaño empresa y factores de rendimiento](https://gupea.ub.gu.se/bitstream/2077/65529/1/gupea_2077_65529_1.pdf)
