@@ -1,3 +1,5 @@
+# Registro de marca
+
 El registro de marca es un proceso que se realiza en el INDECOPI.
 
 Para determinar la categoria de tu registro se recomienda el uso del sistema PeruaNIZAdo como se muestra en el siguiente video. 
