@@ -7,3 +7,6 @@ https://youtu.be/_UF08juy8GM?t=221
 
 Registo de marca
 https://www.gob.pe/institucion/indecopi/tema/marca
+
+Costos y pasos en el siguiente enlace
+https://www.youtube.com/watch?v=y8b_z2DRWAM
