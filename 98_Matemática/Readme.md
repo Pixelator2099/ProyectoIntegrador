@@ -13,3 +13,22 @@ Autores James M. Van Verth y Lars M. Bishop son ingenieros de NVIDIA. En la intr
 Los ejercicios del proyecto desarrollado han sido creadas usando IvMAth, IvCurves y IvCollision. Estos códigos pueden ser accedidos en el siguiente enlace https://github.com/jvanverth/essentialmath
 
 32-
+
+
+## Algunos motores de juegos para hacer experimentos matemáticos
+
+https://www.vulkan.org/
+
+Es un motor multi plataforma para juegos 3D
+
+http://www.alice.org/
+
+Es un escenario virtual 3d para hacer historias
+
+https://godotengine.org/
+
+Kit de herramientas para hacer juegos y no tener que reinventar la rueda
+
+https://love2d.org/
+
+Motor para juegos en 2D hecho en Lua
