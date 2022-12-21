@@ -11,3 +11,8 @@ https://support.google.com/blogger/answer/47270?hl=en
 Widgets 
 
 https://support.google.com/blogger/answer/46995
+
+
+Hack 1: Interlineado en los post
+line-height
+
