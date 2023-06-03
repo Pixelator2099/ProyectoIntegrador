@@ -113,7 +113,7 @@ Con estos simples comandos se pueden construir los diversos programas y algoritm
 
 ALGORITMOS RESUELTOS CON DIAGRAMAS DE FLUJO Y PSEUDOCÓDIGO
 
-(ALGORITMOS)[pdf/algoritmos.pdf]
+[ALGORITMOS](pdf/algoritmos.pdf)
 
 Autores
 
