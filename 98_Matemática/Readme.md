@@ -7,4 +7,5 @@ Le recomendamos comenzar por la lectura de la [Introduccion](Ciencia_de_la_Compu
 Temas
 
 1. [Introducción a la programación](Ciencia_de_la_Computacion.md)
-1. [Matemática de los video juegos](Matematica_Juegos.md)
+2. [Pseudocodigo](pseudocodigo.md)
+3. [Matemática de los video juegos](Matematica_Juegos.md)
