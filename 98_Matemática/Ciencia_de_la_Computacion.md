@@ -16,6 +16,17 @@ Al respecto de la curva de aprendizaje, las preguntas que complican la decisión
 
 Por tal motivo, es importante que el profesional desarrolle sus habilidades de análisis independiente a las técnologias por lo que se recomienda aprender por medio de diagramas, flujogramas así como del uso de pseudocódigo el diseño, análisis las formas de optimizar un algoritmo.
 
+## Lenguajes de programación y el pseucódigo
+
+Un algoritmo es un conjunto de pasos para solucionar un problema, realizar un cálculo asi como automatizar actividades. Su objetivo es este punto es aportar al aprendizaje del diseño algoritmos con una estructura simple para entender de forma general los pasos que se van a tomar para lograr una solución óptima.
+
+Por tal motivo, cuando se enseñe y aprenda pseucódigo se debe considerar que la estructura es simple, y que si bien puede tener parecido con algún lenguaje el objetivo es el aprendizaje del diseño de algoritmos en lugar de enseñar un lenguaje en si mismo.
+
+
+
+### Actividad
+
+Para complementar el estudio recomendamos la siguiente actividad: Buscar definiciones académicas de pseucódigo y la historia de los lenguajes de programación.
 
 ## Recursos
 
