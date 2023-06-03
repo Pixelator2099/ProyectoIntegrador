@@ -22,6 +22,8 @@ Un algoritmo es un conjunto de pasos para solucionar un problema, realizar un c�
 
 Por tal motivo, cuando se enseñe y aprenda pseucódigo se debe considerar que la estructura es simple, y que si bien puede tener parecido con algún lenguaje el objetivo es el aprendizaje del diseño de algoritmos en lugar de enseñar un lenguaje en si mismo.
 
+Su ventaja sobre los flujogramas es la versatilidad para ser elaborados y modificados, asi como por su semejanza con los lenguajes permite aprender los fundamentos de programación de lenguajes variados.
+
 ### Sintaxis de programación en pseucódigo
 
 Si bien el pseucódigo no tiene una sintaxis específica, se recomienda establecer ciertas reglas para su desarrollo y aprendiza común con cierto parecido a un lenguaje real.
