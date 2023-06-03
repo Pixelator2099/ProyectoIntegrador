@@ -1,7 +1,4 @@
-
-
-
-#### Pseucódigo PSC-1
+# Pseucódigo PSC-1
 
 PSC-1 es una propuesta del diseño de actividades con Pseucódigo que puede ser adaptado a diversos lenguajes. Es un lenguaje no formal para aprender a diseñar estructuras.
 
@@ -44,7 +41,7 @@ El bloque de PSC-1 anterior crea una variable y un condicional para definirsi er
 
 El bloque de PSC-1 anterior crea una variable y una estructura de iteracción que va de 1 hasta 10 e imprimir el valor actual de la variable cantidad.
 
-#### Pseucódigo PSC-2
+# Pseucódigo PSC-2
 
 PSC-2 es un bloque de comando que incluyen interaciones
 
@@ -87,7 +84,7 @@ PSC-2 es un bloque de comando que incluyen interaciones
   
 ```
 
-#### Pseucódigo PSC-3
+# Pseucódigo PSC-3
 
 PSC-3 es un bloque de comando que incluyen funciones y procedimientos. Las funciones son bloques de código que se utilizan para ejecutar código y retornar el resultado, el procedimiento en cambio ejecuta el código pero no retorna un valor.
 
@@ -108,6 +105,35 @@ PSC-3 es un bloque de comando que incluyen funciones y procedimientos. Las funci
 
 
 Con estos simples comandos se pueden construir los diversos programas y algoritmos.
+
+# Estructura de los algoritmos PSC-0
+
+Se recomienda seguir una estructura para la creación de algoritmos como se muestra a continuación
+
+```
+// Comentar el propósito del codigo
+
+// Definir variables en la cabecera
+VARIABLE A1
+VARIABLE A2
+VARIABLE A2
+
+// Definir código principal
+IMPRIMIR "CODIGO PRINCIPAL"
+A1 = 10
+A2 = 13
+A3 = calcular(A1,A2)
+
+IMPRIMIR A3
+
+// Definir funciones y procedimientos
+
+FUNCION calcular (A , B)
+  RETORNAR A + B
+FIN FUNCION
+
+```
+
 
 ### Ejercicios
 
