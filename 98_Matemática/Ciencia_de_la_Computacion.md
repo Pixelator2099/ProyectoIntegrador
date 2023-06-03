@@ -112,6 +112,26 @@ PSC-2 es un bloque de comando que incluyen interaciones
   
 ```
 
+#### Pseucódigo PSC-3
+
+PSC-3 es un bloque de comando que incluyen funciones y procedimientos. Las funciones son bloques de código que se utilizan para ejecutar código y retornar el resultado, el procedimiento en cambio ejecuta el código pero no retorna un valor.
+
+```
+  // PSC-3
+  
+  // Función que  suma A + B
+  FUNCION SUMAR(A,B)
+    RETORNAR A + B
+  FIN FUNCION
+  
+  // Procedimiento que imprime un texto
+  PROCEDIMIENDO HOLA()
+    IMPRIMIR "PROCEDIMIENTO 1"
+  FIN PROCEDIMIENO
+  
+```
+
+
 Con estos simples comandos se pueden construir los diversos programas y algoritmos.
 
 
