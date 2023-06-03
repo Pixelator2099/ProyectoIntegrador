@@ -147,3 +147,5 @@ Para motivar la curiosidad y el aprendizaje empírico, se recomienda buscar mét
 
 Aprendamos desde el punto de vista téorico científico con 
 [Revistas de computación](https://www.redalyc.org/area.oa?id=33&tipo=coleccion)
+
+Libro Lenguajes de programación y procesadores, De Francisco Gortázar Bellas, Raquel Martínez Unanue, Víctor Diego Fresno Fernández [Libro digital](https://books.google.com.pe/books?hl=es&lr=&id=eHL-DAAAQBAJ&oi=fnd&pg=PR16&dq=historia+de+los+lenguajes+de+programaci%C3%B3n&ots=QRw8a2v78N&sig=_mlf-R9G07xs08JzzulWZopxFxE#v=onepage&q=historia%20de%20los%20lenguajes%20de%20programaci%C3%B3n&f=false)
