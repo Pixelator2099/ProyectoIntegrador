@@ -10,6 +10,13 @@ Libro 2
 
 [Christopher_Tremblay-Mathematics_for_Game_Developers-EN](http://www.r-5.org/files/books/computers/algo-list/game-development/Christopher_Tremblay-Mathematics_for_Game_Developers-EN.pdf)
 
+Libro 3
+
+[10 Print](https://10print.org/)
+
+Es un libro acerca de un programa de 1 línea de código para C64 publicado en el 2012, y un compendio sobre hardware y sofware.  
+Nick Montfort, Patsy Baudoin, John Bell, Ian Bogost, Jeremy Douglass, Mark C. Marino, Michael Mateas, Casey Reas, Mark Sample, and Noah Vawter
+
 # Matemática esencial para video juegos.
 
 Autores James M. Van Verth y Lars M. Bishop son ingenieros de NVIDIA. En la introducción explica como el aumento de la potencia de cómputo permite pasar del "d al 3D con relativa popularidad. En cuanto a los conceptos iniciales explica el funcionamiento de los Engine 3D, en donde las funciones principales son los movimientos, detección de colisión y ejecutar acciones al detectar colisiones.
