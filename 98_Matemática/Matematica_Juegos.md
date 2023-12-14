@@ -43,3 +43,9 @@ Kit de herramientas para hacer juegos y no tener que reinventar la rueda
 https://love2d.org/
 
 Motor para juegos en 2D hecho en Lua
+
+https://cdn.preterhuman.net/texts/computing/programming/3drotate.txt
+
+https://cdn.preterhuman.net/texts/computing/programming/3dshade.txt
+
+old School rotación en 3d y crear una textura
