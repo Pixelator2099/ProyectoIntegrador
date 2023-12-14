@@ -49,3 +49,11 @@ https://cdn.preterhuman.net/texts/computing/programming/3drotate.txt
 https://cdn.preterhuman.net/texts/computing/programming/3dshade.txt
 
 old School rotación en 3d y crear una textura
+
+https://www.pcorner.com/
+
+Software coding and manuals.
+
+https://www.os2museum.com/wp/
+
+Os2 Museum
